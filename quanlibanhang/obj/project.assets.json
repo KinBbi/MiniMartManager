@@ -1360,11 +1360,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Hoang Anh\\source\\repos\\quanlibanhang\\quanlibanhang\\quanlibanhang\\quanlibanhang.csproj",
       "projectName": "quanlibanhang",
       "projectPath": "C:\\Users\\Hoang Anh\\source\\repos\\quanlibanhang\\quanlibanhang\\quanlibanhang\\quanlibanhang.csproj",
       "packagesPath": "C:\\Users\\Hoang Anh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hoang Anh\\source\\repos\\quanlibanhang\\quanlibanhang\\quanlibanhang\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Hoang Anh\\Documents\\Zalo Received Files\\quanlibanhang\\quanlibanhang\\quanlibanhang\\quanlibanhang.csproj",
+      "projectName": "quanlibanhang",
+      "projectPath": "C:\\Users\\Hoang Anh\\Documents\\Zalo Received Files\\quanlibanhang\\quanlibanhang\\quanlibanhang\\quanlibanhang.csproj",
+      "packagesPath": "C:\\Users\\Hoang Anh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hoang Anh\\Documents\\Zalo Received Files\\quanlibanhang\\quanlibanhang\\quanlibanhang\\obj\\",
+>>>>>>> 79c7fb85228546f9233a4db1fbd99d1423c785bd
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hoang Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",

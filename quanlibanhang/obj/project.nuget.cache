@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "FPvBrkGNz5ZFq/OGN9MuWQIjxJgFCBJLqPeDLlKm4ncO+Rrw8MeQDCNDKT3ZgLL92yUr7LAPthHgh7FDiHVRgQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hoang Anh\\source\\repos\\quanlibanhang\\quanlibanhang\\quanlibanhang\\quanlibanhang.csproj",
+=======
+  "dgSpecHash": "6HUjN3O3PeLfD1b2TnpBWGLCVdYbb0p0ZP4TBxNUTMwcEWZVWBqTjdT8AcD5a/tlmKaHxaCYC3T3gaUb/Ex42g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hoang Anh\\Documents\\Zalo Received Files\\quanlibanhang\\quanlibanhang\\quanlibanhang\\quanlibanhang.csproj",
+>>>>>>> 79c7fb85228546f9233a4db1fbd99d1423c785bd
   "expectedPackageFiles": [
     "C:\\Users\\Hoang Anh\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Hoang Anh\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",

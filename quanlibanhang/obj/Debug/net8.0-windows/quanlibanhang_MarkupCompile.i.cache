@@ -4,12 +4,20 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\Hoang Anh\source\repos\quanlibanhang\quanlibanhang\quanlibanhang\obj\Debug\net8.0-windows\
+=======
+C:\Users\Hoang Anh\Documents\Zalo Received Files\quanlibanhang\quanlibanhang\quanlibanhang\obj\Debug\net8.0-windows\
+>>>>>>> 79c7fb85228546f9233a4db1fbd99d1423c785bd
 quanlibanhang
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+<<<<<<< HEAD
 C:\Users\Hoang Anh\source\repos\quanlibanhang\quanlibanhang\quanlibanhang\App.xaml
+=======
+C:\Users\Hoang Anh\Documents\Zalo Received Files\quanlibanhang\quanlibanhang\quanlibanhang\App.xaml
+>>>>>>> 79c7fb85228546f9233a4db1fbd99d1423c785bd
 91382980481
 
 20-427028762

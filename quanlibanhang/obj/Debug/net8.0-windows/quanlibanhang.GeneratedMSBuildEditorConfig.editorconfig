@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = quanlibanhang
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Hoang Anh\source\repos\quanlibanhang\quanlibanhang\quanlibanhang\
+=======
+build_property.ProjectDir = C:\Users\Hoang Anh\Documents\Zalo Received Files\quanlibanhang\quanlibanhang\quanlibanhang\
+>>>>>>> 79c7fb85228546f9233a4db1fbd99d1423c785bd
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
