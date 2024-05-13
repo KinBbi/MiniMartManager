@@ -120,7 +120,7 @@ namespace quanlibanhang {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/quanlibanhang;component/form/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/quanlibanhang;V1.0.0.0;component/form/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Form\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

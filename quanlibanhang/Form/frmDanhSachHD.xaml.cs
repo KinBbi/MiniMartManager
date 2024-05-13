@@ -25,7 +25,7 @@ namespace quanlibanhang.Form
 
 
         private SQLiteConnection connection;
-        private string database = "C:\\Users\\Hoang Anh\\Documents\\Zalo Received Files\\quanlibanhang\\quanlibanhang\\quanlibanhang\\Database\\Data_Market_Manager.db";
+        private string database = "C:\\Users\\Hoang Anh\\source\\repos\\quanlibanhang\\quanlibanhang\\quanlibanhang\\Database";
 
         private void ConnectToData()
         {
