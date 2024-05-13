@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\form\\frmnhanvien.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|solutionrelative:quanlibanhang\\form\\frmnhanvien.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|c:\\users\\bhoan\\onedrive\\m\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\form\\frmnhanvien.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|solutionrelative:quanlibanhang\\form\\frmnhanvien.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|c:\\users\\bhoan\\onedrive\\m\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\form\\frmsanpham.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|solutionrelative:quanlibanhang\\form\\frmsanpham.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\form\\frmthemsp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|solutionrelative:quanlibanhang\\form\\frmthemsp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\form\\frmdanhsachhd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|solutionrelative:quanlibanhang\\form\\frmdanhsachhd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\form\\frmchitiethd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|solutionrelative:quanlibanhang\\form\\frmchitiethd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\form\\frmbanhang.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|solutionrelative:quanlibanhang\\form\\frmbanhang.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\form\\frmchitiethd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|solutionrelative:quanlibanhang\\form\\frmchitiethd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\form\\frmdoanhthu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|solutionrelative:quanlibanhang\\form\\frmdoanhthu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\form\\frmthanhtoan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8241E4-9D98-4637-8226-63DB3FC25ABE}|quanlibanhang\\quanlibanhang.csproj|solutionrelative:quanlibanhang\\form\\frmthanhtoan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmNhanVien.xaml",
+              "DocumentMoniker": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmNhanVien.xaml",
+              "RelativeDocumentMoniker": "quanlibanhang\\Form\\frmNhanVien.xaml",
+              "ToolTip": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmNhanVien.xaml",
+              "RelativeToolTip": "quanlibanhang\\Form\\frmNhanVien.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T12:22:23.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSanPham.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmSanPham.xaml.cs",
+              "RelativeDocumentMoniker": "quanlibanhang\\Form\\frmSanPham.xaml.cs",
+              "ToolTip": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmSanPham.xaml.cs",
+              "RelativeToolTip": "quanlibanhang\\Form\\frmSanPham.xaml.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAADwv5YAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:07:09.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmBanHang.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmBanHang.xaml.cs",
+              "RelativeDocumentMoniker": "quanlibanhang\\Form\\frmBanHang.xaml.cs",
+              "ToolTip": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmBanHang.xaml.cs",
+              "RelativeToolTip": "quanlibanhang\\Form\\frmBanHang.xaml.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAMwKoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:02:32.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmThanhToan.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmThanhToan.xaml.cs",
+              "RelativeDocumentMoniker": "quanlibanhang\\Form\\frmThanhToan.xaml.cs",
+              "ToolTip": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmThanhToan.xaml.cs",
+              "RelativeToolTip": "quanlibanhang\\Form\\frmThanhToan.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:49:10.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmChiTietHD.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmChiTietHD.xaml.cs",
+              "RelativeDocumentMoniker": "quanlibanhang\\Form\\frmChiTietHD.xaml.cs",
+              "ToolTip": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmChiTietHD.xaml.cs",
+              "RelativeToolTip": "quanlibanhang\\Form\\frmChiTietHD.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:41:07.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNhanVien.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmNhanVien.xaml.cs",
+              "RelativeDocumentMoniker": "quanlibanhang\\Form\\frmNhanVien.xaml.cs",
+              "ToolTip": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmNhanVien.xaml.cs",
+              "RelativeToolTip": "quanlibanhang\\Form\\frmNhanVien.xaml.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAwwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:07:01.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmThemSp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmThemSp.xaml.cs",
+              "RelativeDocumentMoniker": "quanlibanhang\\Form\\frmThemSp.xaml.cs",
+              "ToolTip": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmThemSp.xaml.cs",
+              "RelativeToolTip": "quanlibanhang\\Form\\frmThemSp.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAjwE4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:12:34.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDanhSachHD.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmDanhSachHD.xaml.cs",
+              "RelativeDocumentMoniker": "quanlibanhang\\Form\\frmDanhSachHD.xaml.cs",
+              "ToolTip": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmDanhSachHD.xaml.cs",
+              "RelativeToolTip": "quanlibanhang\\Form\\frmDanhSachHD.xaml.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAADwv4AAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:18:35.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDoanhThu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmDoanhThu.xaml.cs",
+              "RelativeDocumentMoniker": "quanlibanhang\\Form\\frmDoanhThu.xaml.cs",
+              "ToolTip": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmDoanhThu.xaml.cs",
+              "RelativeToolTip": "quanlibanhang\\Form\\frmDoanhThu.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAvwCEAAADnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:11:10.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmChiTietHD.xaml",
+              "DocumentMoniker": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmChiTietHD.xaml",
+              "RelativeDocumentMoniker": "quanlibanhang\\Form\\frmChiTietHD.xaml",
+              "ToolTip": "C:\\Users\\bhoan\\OneDrive\\M\u00E1y t\u00EDnh\\quanlibanhang\\quanlibanhang\\Form\\frmChiTietHD.xaml",
+              "RelativeToolTip": "quanlibanhang\\Form\\frmChiTietHD.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-14T14:48:47.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

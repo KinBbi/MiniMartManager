@@ -1,0 +1,87 @@
+﻿<Page x:Class="quanlibanhang.Form.frmNhanVien"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:quanlibanhang.Form"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="frmNhanVien"  Height="600" Width="920"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}">
+
+    <StackPanel>
+        <StackPanel HorizontalAlignment="Center"  VerticalAlignment="Top" Width="800">
+            <Label Content="Danh Mục Nhân Viên" FontSize="27" FontWeight="Bold" Foreground="DarkBlue" HorizontalAlignment="Center" Margin="0,15,0,0" Height="46" />
+            <StackPanel Orientation="Horizontal" MinHeight="80">
+                <!--nhập thông tin nhân viên-->
+                <StackPanel MinWidth="400" Margin="15 0 0 0">
+                    <StackPanel Orientation="Horizontal"  MinHeight="32" Margin="0 0 0 5">
+                        <Label Content="Mã Nhân Viên: " VerticalAlignment="Center" FontSize="13" Width="100"/>
+                        <TextBox
+                            x:Name="txtMaNv"
+                            Height="30"
+                            Padding="5"
+                            IsEnabled="{Binding Path=IsChecked, ElementName=MaterialDesignOutlinedTextBoxEnabledComboBox}"
+                            Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                            TextWrapping="Wrap"
+                            VerticalScrollBarVisibility="Auto" Width="180" RenderTransformOrigin="0.525,2.046" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" MinHeight="32">
+                        <Label Content="Tên Nhân Viên: " VerticalAlignment="Center" FontSize="13" Width="100"/>
+                        <TextBox
+                            x:Name="txtTenNv"
+                         Height="30"
+                         Padding="5"
+                         IsEnabled="{Binding Path=IsChecked, ElementName=MaterialDesignOutlinedTextBoxEnabledComboBox}"
+                         Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                         TextWrapping="Wrap"
+                         VerticalScrollBarVisibility="Auto" Width="180" RenderTransformOrigin="0.525,2.046" />
+                    </StackPanel>
+                </StackPanel>
+
+                <StackPanel MinWidth="400" >
+                    <StackPanel Orientation="Horizontal" MinHeight="32" Margin="0 0 0 5">
+                        <Label Content="Số điện thoại: " VerticalAlignment="Center" FontSize="13"/>
+                        <TextBox
+                            x:Name="txtSdt"
+                         Height="30"
+                         Padding="5"
+                         IsEnabled="{Binding Path=IsChecked, ElementName=MaterialDesignOutlinedTextBoxEnabledComboBox}"
+                         Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                         TextWrapping="Wrap"
+                         VerticalScrollBarVisibility="Auto" Width="180" RenderTransformOrigin="0.525,2.046" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" MinHeight="32">
+                        <Label Content="Giới Tính: " VerticalAlignment="Center" FontSize="13"/>
+                        <TextBox
+                            x:Name="txtGioiTinh"
+                            Margin="25,0,0,0"
+                             Height="30"
+                             Padding="5"
+                             IsEnabled="{Binding Path=IsChecked, ElementName=MaterialDesignOutlinedTextBoxEnabledComboBox}"
+                             Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                             TextWrapping="Wrap"
+                             VerticalScrollBarVisibility="Auto" Width="180" RenderTransformOrigin="0.525,2.046" />
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            <!--kết thúc nhập nhân viên-->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 10 0 0">
+                <Button Margin="0 0 20 0" Click="ThemNv_Click">Thêm</Button>
+                <Button x:Name="btnXoaNv"  Margin="15 0 15 0" Click="btnXoaNv_Click" >Xóa</Button>
+                <Button x:Name="btnCapNhatNv" Margin="15 0 0 0" Click="btnCapNhatNv_Click">Cập Nhật</Button>
+            </StackPanel>
+            <ScrollViewer Margin="0,20">
+                <DataGrid x:Name="dgNhanVien" MinHeight="210" IsReadOnly="True" SelectionChanged="dgNhanVien_SelectionChanged" ></DataGrid>
+            </ScrollViewer>
+
+        </StackPanel>
+    </StackPanel>
+</Page>

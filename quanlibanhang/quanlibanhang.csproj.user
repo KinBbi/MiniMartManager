@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Form\frmBanHang.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Form\frmChiTietHD.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Form\frmDanhSachHD.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Form\frmDoanhThu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Form\frmNhanVien.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Form\frmSanPham.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Form\frmThanhToan.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Form\frmThemSp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Form\frmBanHang.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Form\frmChiTietHD.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Form\frmDanhSachHD.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Form\frmDoanhThu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Form\frmNhanVien.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Form\frmSanPham.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Form\frmThanhToan.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Form\frmThemSp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Form\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
