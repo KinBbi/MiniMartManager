@@ -1,0 +1,94 @@
+﻿<Page x:Class="quanlibanhang.Form.frmDanhSachHD"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:quanlibanhang.Form"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="frmDanhSachHD"  Height="600" Width="1020"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}">
+
+    <Grid>
+        <StackPanel>
+            <Label Content="DANH SÁCH HÓA ĐƠN" FontSize="27" FontWeight="Bold" Foreground="DarkBlue" HorizontalAlignment="Center" Margin="0,15,0,0" Height="45"/>
+            <Grid Margin="35 15 0 0" Height="80" Width="700">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <StackPanel HorizontalAlignment="Center">
+
+                    <StackPanel Orientation="Horizontal" Height="40">
+                        <Label VerticalAlignment="Center" Width="90" >Mã Hóa Đơn</Label>
+                        <TextBox
+                            x:Name="txtMaHD"
+                            Height="30"
+                            Padding="5"
+                            FontSize="13"
+                            IsEnabled="{Binding IsChecked, ElementName=MaterialDesignOutlinedTextBoxEnabledComboBox}"
+                            Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                            TextWrapping="Wrap"
+                            VerticalScrollBarVisibility="Auto" Width="170"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Height="40">
+                        <Label VerticalAlignment="Center" Width="90">Mã Nhân Viên</Label>
+                        <TextBox
+                                x:Name="txtMaNV"
+                                Height="30"
+                                Padding="5"
+                                FontSize="13"
+                                IsEnabled="{Binding IsChecked, ElementName=MaterialDesignOutlinedTextBoxEnabledComboBox}"
+                                Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                                TextWrapping="Wrap"
+                                VerticalScrollBarVisibility="Auto" Width="170"/>
+                    </StackPanel>
+
+
+
+                </StackPanel>
+                <StackPanel  Grid.Column="1" Margin="10 0 0 0">
+                    <StackPanel Orientation="Horizontal" Height="40">
+                        <Label VerticalAlignment="Center" Width="75">Ngày tháng</Label>
+                        <DatePicker
+                            x:Name="txtNgayThang"
+                            Width="170"
+                            Height="30"
+                            Padding="5"
+                            FontSize="15"
+                            Style="{StaticResource MaterialDesignOutlinedDatePicker}" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Height="40" VerticalAlignment="Top">
+                        <Label VerticalAlignment="Center" Width="75">Tổng tiền</Label>
+                        <TextBox
+                            x:Name="txtTongTien"
+                            Height="30"
+                            Padding="5"
+                            FontSize="13"
+                            IsEnabled="{Binding IsChecked, ElementName=MaterialDesignOutlinedTextBoxEnabledComboBox}"
+                            Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                            TextWrapping="Wrap"
+                            VerticalScrollBarVisibility="Auto" Width="170"  />
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 20 0 20">
+                <Button x:Name="btnTimKiem" Margin="0 0 25 0" Click="btnTimKiem_Click"  >Tìm kiếm</Button>
+                <Button x:Name="btnLamMoi" Margin="25 0 25 0" Click="btnLamMoi_Click" >Làm mới</Button>
+                <Button x:Name="btnXoa" Margin="25 0 0 0" Click="btnXoa_Click">Xóa</Button>
+                <Button x:Name="btnChiTiet" Margin="25 0 0 0" Click="btnChiTiet_Click" >Chi Tiết</Button>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Center">
+                <DataGrid x:Name="dgDanhSachHD" Height="194" MinWidth="600" Margin="0 15 0 5" IsReadOnly="True" SelectionChanged="dgDanhSachHD_SelectionChanged" ></DataGrid>
+            </StackPanel>
+           
+        </StackPanel>
+    </Grid>
+</Page>
