@@ -59,11 +59,7 @@ namespace quanlibanhang {
             
             #line default
             #line hidden
-<<<<<<< HEAD
-            System.Uri resourceLocater = new System.Uri("/quanlibanhang;V1.0.0.0;component/app.xaml", System.UriKind.Relative);
-=======
             System.Uri resourceLocater = new System.Uri("/quanlibanhang;component/app.xaml", System.UriKind.Relative);
->>>>>>> 79c7fb85228546f9233a4db1fbd99d1423c785bd
             
             #line 1 "..\..\..\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

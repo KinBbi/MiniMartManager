@@ -128,11 +128,7 @@ namespace quanlibanhang.Form {
                 return;
             }
             _contentLoaded = true;
-<<<<<<< HEAD
-            System.Uri resourceLocater = new System.Uri("/quanlibanhang;V1.0.0.0;component/form/frmdanhsachhd.xaml", System.UriKind.Relative);
-=======
             System.Uri resourceLocater = new System.Uri("/quanlibanhang;component/form/frmdanhsachhd.xaml", System.UriKind.Relative);
->>>>>>> 79c7fb85228546f9233a4db1fbd99d1423c785bd
             
             #line 1 "..\..\..\..\Form\frmDanhSachHD.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

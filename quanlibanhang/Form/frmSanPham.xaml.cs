@@ -27,11 +27,7 @@ namespace quanlibanhang.Form
 
         private SQLiteConnection connection;
 
-<<<<<<< HEAD
-        private string database = "C:\\Users\\Hoang Anh\\source\\repos\\quanlibanhang\\quanlibanhang\\quanlibanhang\\Database";
-=======
-        private string database = "C:\\Users\\Hoang Anh\\Documents\\Zalo Received Files\\quanlibanhang\\quanlibanhang\\quanlibanhang\\Database\\Data_Market_Manager.db";
->>>>>>> 79c7fb85228546f9233a4db1fbd99d1423c785bd
+        private string database = "C:\\Users\\Hoang Anh\\source\\repos\\quanlibanhang\\quanlibanhang\\quanlibanhang\\Database\\Data_Market_Manager.db";
 
 
         // Kết nối cơ sở dữ liệu
